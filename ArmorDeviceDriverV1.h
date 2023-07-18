@@ -1,19 +1,18 @@
 /***********************************************************************************
- * Copyright:   上海幻神科技有限公司
+ * Copyright:   上海幻身科技有限公司
  * Created:     2022/09/20
- * Author: Darth.L
- * E-mail: 929204168@qq.com
- * 
- * Notice: 为了适配C#和Unity3D游戏引擎,使用C-Style 风格实现
- *         智能体感服驱动
- * 
- * Protocol: Bluetooth
+ * Author:      moonseer
+ * E-mail:      929204168@qq.com
+ *
+ * Notice:		支持基于moonseer 1.0 (BLE5.0芯片) 的体感服驱动
+ *
+ * Protocol:    Bluetooth 5.0
  * 
  * History: 
  *        2022/09/20  Create
  * 
  * Version:
- *        4.0
+ *        1.0
  * 
  * SDK Download URL: 
  *
